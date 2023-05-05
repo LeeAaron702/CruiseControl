@@ -1,10 +1,9 @@
 # Cruise Control
 
+![CruiseControl Screen Recording 3x speed (1)](https://user-images.githubusercontent.com/112150883/236569582-a9574ea0-4171-41e2-93a5-922ff8d85ab2.gif)
+<sub>Please disregard the low framerate as 10mb is the largest file I could upload. For a 10 minute demonstartion of Cruise Controls MVP please visit https://youtu.be/3J01PG0yHOU </sub>
+
 Cruise Control is an appointment and service management application built using FastAPI for the backend, React.js for the frontend, Bootstrap for the css library, and PostgreSQL as the database. The application provides a platform for businesses to manage appointments, services, and technicians.
-
-
-https://user-images.githubusercontent.com/112150883/236427462-bfff449c-6272-4d24-9ab6-7ba4514a3a55.mp4
-
 
 ---
 
@@ -13,7 +12,6 @@ https://user-images.githubusercontent.com/112150883/236427462-bfff449c-6272-4d24
 - Lee Seaver
 - Joshua Evangelista
 - Nicholas Trevino
-- Kenneth Wilson
 
 ---
 
