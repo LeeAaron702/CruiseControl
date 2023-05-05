@@ -1,0 +1,28 @@
+.navbar-brand-custom {
+  text-decoration: none;
+  color: #05c4a4;
+}
+
+#nav,
+#offheader {
+  color: #05c4a4;
+}
+
+.navbar-logging {
+  float: right;
+  color: rgb(5, 196, 164);
+}
+.navbar-logging:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.container-fluid {
+  background-color: white;
+  padding: 0px, 0px, 0px, 0px;
+}
+
+.fixed-top {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
