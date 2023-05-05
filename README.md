@@ -2,6 +2,10 @@
 
 Cruise Control is an appointment and service management application built using FastAPI for the backend, React.js for the frontend, Bootstrap for the css library, and PostgreSQL as the database. The application provides a platform for businesses to manage appointments, services, and technicians.
 
+
+https://user-images.githubusercontent.com/112150883/236427462-bfff449c-6272-4d24-9ab6-7ba4514a3a55.mp4
+
+
 ---
 
 ## Created by
